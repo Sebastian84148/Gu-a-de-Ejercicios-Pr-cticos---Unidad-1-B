@@ -1,0 +1,6 @@
+nombre = input("Ingrese un nombre: ")
+comisión = input("Ingrese una comisión: ")
+asignatura = input("Ingrese una asignatura: ")
+docente = input("Ingrese un docente: ")
+presente = input("¿Estuvo presente?: ")
+print("Nombre:", nombre, "- Comisión:", comisión, "- Asignatura:", asignatura, "- Docente:", docente, "- Presente", presente)
